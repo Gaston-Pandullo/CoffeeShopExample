@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoffeeShop": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Desarrollos\\Proyecto\\The C# Academy\\CoffeeShop\\CoffeeShop\\"
+    }
+  }
+}

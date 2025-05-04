@@ -9,6 +9,6 @@ namespace CoffeeShop
     internal class Product
     {
         public int Id { set; get; }
-        public int Name { set; get; }
+        public string Name { set; get; }
     }
 }
